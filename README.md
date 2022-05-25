@@ -44,4 +44,4 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 Floyd, T. L, (2007). _PRINCIPIOS DE CIRCUITOS ELECTRICOS_. México: PEARSON EDUCACIÓN.
 
 RUBRICA
-![alt text]()
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/RubicasTarea.png)
