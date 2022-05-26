@@ -37,6 +37,7 @@ Como se ha visto, la corriente varía inversamente con la resistencia tal como l
 
 - **CAPITULO 4**
 
+OTRA FORMULA: La relación entre potencia y corriente, voltaje, y resistencia expresada en las fórmulas precedentes se conoce como ley de Watt. En cada caso, I debe estar en amperes, V en volts y R en ohms. Para calcular la potencia en una resistencia, se puede utilizar cualquiera de las tres fórmulas de potencia, según la información que se tenga. Por ejemplo, suponga que se conocen los valores de corriente y voltaje. En este caso, la potencia se calcula con la fórmula P= VI. Si se conocen I y R, se utiliza la fórmula P =I^2 R. Si V y R son los valores conocidos, se utiliza la fórmula P = V^2 /R.
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
