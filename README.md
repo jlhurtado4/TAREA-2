@@ -83,7 +83,9 @@ La eficiencia a menudo de expresa como un porcentaje. Por ejemplo, si la potenci
 
 
 5. CONCLUSIONES
-
+- - La ley de Ohm es una ley que estipula que la corriente es directmente proporcional al voltaje e inveramente proporcional a la resistencia.
+- - Energia es la capacidad de realizar trabajo, y potencia es la velocidad a la cual se utiliza la energia. La corriente transporta energía eléctrica a través de un circuito. A medida que los electrones libres pasan por la resistencia del circuito, ceden su energia cuando chocan con atomos presentes en el materia resistivo.
+- - La energia electrica cedida por los electrones se convierte en energiacalorifica. La razon de cambio a la cual se utiliza la energia electrica es la potencial que hay en el circuito
 
 
 6. BIBLIOGRAFÍA
