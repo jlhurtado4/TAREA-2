@@ -88,7 +88,7 @@ La eficiencia a menudo de expresa como un porcentaje. Por ejemplo, si la potenci
 
 4. VIDEO
 
-
+https://www.youtube.com/watch?v=0MAEMQl2PGU
 
 5. CONCLUSIONES
 - - La ley de Ohm es una ley que estipula que la corriente es directmente proporcional al voltaje e inveramente proporcional a la resistencia.
