@@ -17,7 +17,23 @@ UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 2. MARCO TEÓRICO (RESUMEN)
 
 - **CAPITULO 3**
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/3.jpg)
 
+- La relación lineal de corriente y voltaje 
+En circuitos resistivos, la corriente y el voltaje son linealmente proporcionales "Lineal" significa que si una de las cantidades se incrementa o disminuye en cierto porcentaje, la otra se incrementará o disminuirá en el mismo porcentaje, suponiendo que el valor de la resistencia es constante. Por ejemplo, si el voltaje a través de un resistor se triplica, la corriente se triplicará.
+
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/4.jpg)
+
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/5.jpg)
+
+- La relación inversa de corriente y resistencia 
+Como se ha visto, la corriente varía inversamente con la resistencia tal como lo expresa la ley de Ohm, I=V/R. Cuando la resistencia se reduce, la corriente se incrementa; cuando la resistencia se incrementa, la corriente se reduce. Por ejemplo, si el voltaje de la fuente se mantiene constante y la resistencia se reduce a la mitad, la corriente se duplica; cuando la resistencia se duplica, la corriente se reduce a la mitad.
+
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/6.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/7.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/8.jpg)
 
 - **CAPITULO 4**
 
