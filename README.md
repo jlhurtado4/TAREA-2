@@ -70,7 +70,12 @@ La eficiencia a menudo de expresa como un porcentaje. Por ejemplo, si la potenci
 
 
 **EJERCICIOS CAPITULO 4**
-
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/EJERCICIOS%203%20Y%204/4-1-1.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/EJERCICIOS%203%20Y%204/4-1-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/EJERCICIOS%203%20Y%204/4-2.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/EJERCICIOS%203%20Y%204/4-3.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/EJERCICIOS%203%20Y%204/4-4.jpg)
+![alt text](https://github.com/jlhurtado4/TAREA-2/blob/main/IMAGENES%20CAP%203%20Y%204/EJERCICIOS%203%20Y%204/4-5.jpg)
 
 4. VIDEO
 
